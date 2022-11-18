@@ -1,4 +1,8 @@
 package vistacontrol;
 
 public class Index{
+
+public static void menu(){
+}
+	
 	}
